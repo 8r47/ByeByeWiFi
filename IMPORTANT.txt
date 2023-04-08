@@ -1,0 +1,10 @@
+Before you run this script,
+Install the required dependencies otehrwise this will NOT work.
+
+install;
+----------
+iw
+aircrack-ng
+----------------
+
+Enjoy this tool<3
